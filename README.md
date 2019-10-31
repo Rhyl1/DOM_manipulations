@@ -1,7 +1,5 @@
-# Code Institute
+# FromJavaScriptTojQery files
 
-Welcome USER_NAME,
+Welcome ,
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+This repository was made for use with the lessons "Manipulating the DOM".
